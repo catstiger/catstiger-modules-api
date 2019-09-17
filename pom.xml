@@ -12,7 +12,7 @@
 
 	<groupId>com.github.catstiger</groupId>
 	<artifactId>catstiger-modules-api</artifactId>
-	<version>0.0.7</version>
+	<version>0.0.8</version>
 	<name>Catstiger Modules API</name>
 	<packaging>jar</packaging>
 
@@ -29,13 +29,13 @@
 		<dependency>
 			<groupId>com.github.catstiger</groupId>
 			<artifactId>catstiger-common</artifactId>
-			<version>0.0.7</version>
+			<version>0.0.8</version>
 		</dependency>
 		
 		<dependency>
 			<groupId>com.github.catstiger</groupId>
 			<artifactId>catstiger-websecure</artifactId>
-			<version>0.0.7</version>
+			<version>0.0.8</version>
 		</dependency>
 	</dependencies>
 
